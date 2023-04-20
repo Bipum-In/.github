@@ -28,9 +28,12 @@
 
 [비품인](https://www.bipumin.shop/)
 
-## [](https://www.youtube.com/watch?v=_1JAHVzat2Q)비품인 시연 영상 사이트
+## 비품인 시연 영상 사이트
 
-[비품인.youtube](https://www.youtube.com/watch?v=_1JAHVzat2Q)
+🖥️ 비품인 시연영상, 아키텍처, 트러블슈팅
+
+🖥️ 비품인 간단 시연영상
+
 
 ## 깃허브 레포
 
